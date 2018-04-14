@@ -2,8 +2,8 @@
 
 def position_taken?(board, oindex)
   if board != " "
-    false
+    true
   else
-    true 
+    false
   end
 end
